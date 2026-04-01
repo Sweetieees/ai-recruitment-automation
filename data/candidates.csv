@@ -1,0 +1,6 @@
+name,email,skills,years_experience,location,current_role,notes
+Alice Mensah,alice@example.com,"Python, SQL, CRM, Automation, Excel",2,London,Data Analyst,"Worked on process improvement and reporting"
+Brian Lee,brian@example.com,"Java, Spring, Backend, APIs",1,Manchester,Software Engineer,"Good technical profile but less data-focused"
+Clara Dupont,clara@example.com,"Python, Pandas, Data Cleaning, AI Tools, CRM",3,Paris,Operations Analyst,"Strong on automation and structured data"
+David Kim,david@example.com,"Excel, Communication, Recruitment, CRM",2,London,Recruitment Coordinator,"Relevant recruitment exposure, less technical depth"
+Eva Rossi,eva@example.com,"Python, SQL, APIs, Workflow Automation, Power BI",2,Milan,BI Analyst,"Strong business automation and reporting experience"
