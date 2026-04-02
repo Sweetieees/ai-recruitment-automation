@@ -2,14 +2,17 @@ Candidate Screening Report
 ==================================================
 
 Name: Eva Rossi
-Score: 22
-Summary: Eva Rossi appears to be a strong candidate with experience in Python, SQL, automation, API integration, reporting. They have 2 years of experience and are currently based in Milan.
+Score: 24
+Summary: Eva Rossi appears to be a strong candidate with experience in Python, SQL, automation, API integration, reporting. They have 2 years of experience and are currently based in Milan.Score Breakdown: python (+3), sql (+5), automation (+4), workflow automation (+4), apis (+2), power bi (+2), reporting (+2), 2+ years experience (+2)
+
 --------------------------------------------------
 Name: Alice Mensah
-Score: 19
-Summary: Alice Mensah appears to be a strong candidate with experience in Python, SQL, CRM, automation, reporting. They have 2 years of experience and are currently based in London.
+Score: 21
+Summary: Alice Mensah appears to be a strong candidate with experience in Python, SQL, CRM, automation, reporting. They have 2 years of experience and are currently based in London.Score Breakdown: python (+3), sql (+5), crm (+2), automation (+4), process improvement (+3), reporting (+2), 2+ years experience (+2)
+
 --------------------------------------------------
 Name: Clara Dupont
-Score: 18
-Summary: Clara Dupont appears to be a strong candidate with experience in Python, CRM, data cleaning, AI tools. They have 3 years of experience and are currently based in Paris.
+Score: 20
+Summary: Clara Dupont appears to be a strong candidate with experience in Python, CRM, data cleaning, AI tools. They have 3 years of experience and are currently based in Paris.Score Breakdown: python (+3), crm (+2), automation (+4), data cleaning (+5), ai tools (+3), 3+ years experience (+3)
+
 --------------------------------------------------

@@ -29,12 +29,14 @@ def generate_candidate_summary(row: pd.Series) -> str:
     return (
         f"{row['name']} appears to be a strong candidate with experience in {strengths_text}. "
         f"They have {row['years_experience']} years of experience and are currently based in {row['location']}."
+        f"Score Breakdown: {row['score_breakdown']}\n"
     )
 
 def export_outputs(df: pd.DataFrame, output_dir: str = "outputs") -> None:
     os.makedirs(output_dir, exist_ok=True)
 
     shortlisted = df[df["match_score"] >= 8].copy()
+    shortlisted["recommendation"] = shortlisted["match_score"].apply(lambda x: "Strong Fit" if x >= 15 else "Moderate Fit")
     shortlisted["summary"] = shortlisted.apply(generate_candidate_summary, axis=1)
 
     shortlisted.to_csv(f"{output_dir}/shortlisted_candidates.csv", index=False)
